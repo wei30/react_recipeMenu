@@ -1,4 +1,4 @@
-https://wei30.github.io/react_recipeMenu/
+https://wei30.github.io/react_recipeMenu/x
 
 Build a Recipe Box from FreecodeCamp
 
