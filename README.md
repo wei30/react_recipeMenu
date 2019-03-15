@@ -1,7 +1,3 @@
-https://wei30.github.io/react_recipeMenu/x
-
-Build a Recipe Box from FreecodeCamp
-
 Objective:
 
 User story: I can create recipes that have names and ingredients.
